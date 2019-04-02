@@ -1,3 +1,1 @@
-var recipe = {ingredients: "flour",
-  ingretient: "water",
-};
+var recipe = {ingredients: "flour"};
